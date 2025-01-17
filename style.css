@@ -19,9 +19,6 @@ button, input{
     color: white;
 }
 .logo{
-    position: absolute;
-    left: 20%;
-    top: 0%;
     width: 275px;
 }
 .wrapper{
@@ -94,7 +91,4 @@ p{
     justify-content: space-between;
 
     width: 130px;
-}
-.remember-me-btn{
-    background-color: black;
 }
