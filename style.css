@@ -50,11 +50,11 @@ button, input{
     color: white;
     background-color: red;
     border: 1px solid red;
+    transition: 0.25s;
 }
 .sign-in-btn:hover{
     background-color: rgb(169, 22, 22);
     border: 1px solid rgb(169, 22, 22);
-    transition: 0.25s;
     cursor: pointer;
 }
 p{
@@ -68,9 +68,12 @@ p{
     background-color: rgb(66, 66, 66);
     border: 1px solid rgb(66, 66, 66);
     color: white;
+    transition: 0.25s;
 }
 .sign-in-with-code-btn:hover{
-
+    background-color: rgb(44, 44, 44);
+    border: 1px solid rgb(44, 44, 44);
+    cursor: pointer;
 }
 .forgot-pswrd a{
     color: white;
