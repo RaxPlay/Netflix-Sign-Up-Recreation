@@ -28,7 +28,7 @@ button, input{
     left: 39%;
     top: 10%;
     color: white;
-    background-color: rgb(8, 8, 8);
+    background: rgba(8, 8, 8, 0.8);
     width: 17%;
     height: 70%;
     align-self: center;
@@ -41,8 +41,7 @@ button, input{
     margin-top: 25px;
     font-size: 18px;
     width: 90%;
-    backdrop-filter: opacity(0.5);
-    background-color: rgb(28, 28, 28);
+    background: rgba(28, 28, 28, 0.8);
     border: 1px solid gray;
 }
 .sign-in-btn{
